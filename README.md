@@ -5,7 +5,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jprozette&show_icons=true&count_private=true&hide_border=true&title_color=BA55D3&icon_color=BA55D3&text_color=c9d1d9&bg_color=0d1117" alt="Github Stats" /> 
   
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jprozette&bg_color=000000&color=ba55d3&line=048df6&point=ba55d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jprozette&bg_color=34313f&color=e83bdc&line=20c5a4&point=9a5190&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  
   
